@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+
+
+.music-press-member-edit{}
+
+
+.music-press-member-edit .status {
+	margin-bottom: 20px;
+}
+
+.music-press-member-edit .status .success {
+	font-size: 13px;
+	border-left: 3px solid #2bd84c;
+	padding: 5px;
+	background: #fff;
+	display: block;
+}
+
+
+
+
+.music-press-member-edit .section {
+	background: #f3f3f399;
+	padding: 20px 20px;
+	margin: 20px 0;
+}
+
+.music-press-member-edit .work{}
+
+
+.music-press-member-edit .sortable{}
+
+.music-press-member-edit .sortable .item {
+	margin: 15px 0;
+	background: #ddd6;
+	padding: 10px 10px;
+}
+.music-press-member-edit .sortable .item .remove {
+	background: #f36d41;
+	padding: 2px 8px;
+	color: #fff;
+	cursor: pointer;
+}
+.music-press-member-edit .sortable .item .move {
+	background: #41c7f3;
+	padding: 2px 8px;
+	color: #fff;
+	cursor: move;
+}
+
+
+
+.music-press-member-edit .button {
+	display: inline;
+	background: #ddd;
+	padding: 3px 20px;
+	color: #696969;
+	border-radius: 3px;
+	cursor: pointer;
+	border-bottom: 2px solid #a19c9c;
+}
+
+.music-press-member-edit input {
+	margin: 0px 0 5px 0;
+}
+
+@media only screen and ( min-width: 0px ) and ( max-width: 800px ) {
+	
+	
+
+	
+	}
+
+

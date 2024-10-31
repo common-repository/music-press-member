@@ -1,0 +1,68 @@
+/*
+Admin css
+*/
+
+	
+.music-press-member-addons {
+  margin: 40px 0;
+}
+	
+.music-press-member-addons .single {
+  background: none repeat scroll 0 0 rgb(255, 255, 255);
+  border: 1px solid rgb(221, 221, 221);
+  display: inline-block;
+  margin: 20px 10px;
+  overflow: hidden;
+  padding: 0 0 15px;
+  vertical-align: top;
+  width: 325px;
+}
+	
+.music-press-member-addons .thumb {
+  max-height: 180px;
+  overflow: hidden;
+}
+.music-press-member-addons .thumb img {
+  width: 100%;
+}
+.music-press-member-addons .title {
+  font-size: 16px;
+  margin: 15px 0;
+  padding: 0 8px;
+}
+.music-press-member-addons .title a{
+text-decoration:none;
+}
+
+
+.music-press-member-addons .content {
+  font-size: 13px;
+  margin: 8px 0;
+  padding: 0 8px;
+}
+
+.music-press-member-addons .meta {
+  display: inline-block;
+  margin: 0 10px;
+  vertical-align: top;
+}
+
+.music-press-member-addons .meta a{
+	text-decoration:none;
+}
+
+.music-press-member-addons .version {
+
+}
+	
+.music-press-member-addons .download {
+  background: #42b1ff none repeat scroll 0 0;
+  border-radius: 2px;
+  float: right;
+  padding: 3px 10px;
+}	
+	
+
+.music-press-member-addons .download a{
+  color: #fff;
+}
